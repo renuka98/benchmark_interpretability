@@ -1,4 +1,5 @@
-# Explaining benchmarks of outcome oriented predictive process monitoring
+# Interpreting predictive process monitoring 
+## Outcome prediction using different buckets and encoding methods.
 
 The data is evaluated for the following logs
 BPIC 2011, BPIC 2012, and BPIC 2015
