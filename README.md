@@ -23,3 +23,6 @@ Cases of lower prefix rely on non-occurrence of Activity_A_CANCELLED, which is b
 In BPIC 2011 event log, the prediction of outcome is based on case attributes. This indicates that there is very limited use of process execution knowledge 
 
 <img src="https://github.com/renuka98/benchmark_interpretability/blob/master/images/bpic2011_prefix_staticfeatures.png" width="75%" />
+
+The notebook provides the code and explanations
+<a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2011_explanations_bucket_prefix_encoding_agg_cls_xgboost.ipynb"></a>
