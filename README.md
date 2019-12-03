@@ -14,6 +14,7 @@ also appears in the input data and is considered as one of the top 10 important 
 <img src="https://github.com/renuka98/benchmark_interpretability/blob/master/images/bpic2015_singlebucket_dataleakage.png" width="75%" />
 
 BPIC 2015 results
+
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2015_explanations_bucket_single_encoding_agg_cls_xgboost.ipynb">BPIC 2015 Single Bucket, Aggregation Encoding</a>
 
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2015_explanations_bucket_prefix_encoding_agg_cls_xgboost.ipynb">BPIC 2015 Prefix Bucket, Aggregation Encoding</a>
@@ -30,6 +31,7 @@ Cases of lower prefix rely on non-occurrence of Activity_A_CANCELLED, which is b
 
 
 BPIC 2012 results
+
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2012accepted_explanations_bucket_single_encoding_agg_cls_xgboost.ipynb">BPIC 2012 Single Bucket, Aggregation Encoding</a>
 
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2012_Accepted_explanations_bucket_prefix_encoding_agg_cls_xgboost.ipynb">BPIC 2012 Prefix Bucket, Aggregation Encoding</a>
