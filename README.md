@@ -1,6 +1,6 @@
 # Interpreting predictive process monitoring 
 ## Outcome prediction using different buckets and encoding methods.
-The <a href="https://github.com/irhete/predictive-monitoring-benchmark">predictive monitoring benchmark</a> is used. We thank the owner of this work for providing the source code which enabled further study on the predictive models.
+The <a href="https://github.com/irhete/predictive-monitoring-benchmark">predictive monitoring benchmark</a> is used. We thank the authors of the exhaustive benchmark for providing the source code which enabled further study on the predictive models.
 
 The data is evaluated for the following logs. The feature importances and the generated local explanations are used for model interpretations. The explanations are available in the notebooks.
 BPIC 2011, BPIC 2012, and BPIC 2015
