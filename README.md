@@ -20,9 +20,6 @@ BPIC 2012 results
 Decipher the model explanations in the context of process model
 
 
-<img src="https://github.com/renuka98/benchmark_interpretability/blob/master/images/bpic2011_prefix_staticfeatures.png" width="75%" />
-
-
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2011_explanations_bucket_prefix_encoding_agg_cls_xgboost.ipynb">BPIC 2011 Prefix Bucket , Aggregation Encoding</a>
 
 
