@@ -5,9 +5,9 @@ The <a href="https://github.com/irhete/predictive-monitoring-benchmark">predicti
 The data is evaluated for the following logs. The feature importances and the generated local explanations are used for model interpretations. The explanations are available in the notebooks.
 BPIC 2011, BPIC 2012, and BPIC 2015
 
-Explanations enable us to identify:
+Explanations enable us to do the following:
 
-Compare and use the relevant encoding and bucketing methods
+1. Compare and use the relevant encoding and bucketing methods
 
 BPIC 2012 results
 
@@ -17,7 +17,7 @@ BPIC 2012 results
 
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2012_accepted_explanations_bucket_prefix_encoding_index_cls_xgboost.ipynb">BPIC 2012 Prefix Bucket, Index Encoding</a>
 
-Decipher the model explanations in the context of process model
+2. Understand the model explanations in the context of process model
 
 
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2011_explanations_bucket_prefix_encoding_agg_cls_xgboost.ipynb">BPIC 2011 Prefix Bucket , Aggregation Encoding</a>
@@ -25,7 +25,7 @@ Decipher the model explanations in the context of process model
 
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2011_explanations_bucket_prefix_encoding_index_cls_xgboost.ipynb">BPIC 2011 Prefix Bucket , Index Encoding</a>
 
-Detect any issues related to the relevant use of features (e.g. leakage)
+3. Detect any issues related to the relevant use of features (e.g. leakage)
 
 <a href="https://github.com/renuka98/benchmark_interpretability/blob/master/bpic2015_explanations_bucket_single_encoding_agg_cls_xgboost.ipynb">BPIC 2015 Single Bucket, Aggregation Encoding</a>
 
